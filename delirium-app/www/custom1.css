@@ -1,0 +1,41 @@
+/* header title area font */
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 38px;
+
+  
+}
+
+
+/* background color of header (logo part) */
+.skin-blue .main-header .logo {
+          background-color: #4682B4; /* backgorund color of the logo header part */
+          font-weight: bold;
+          color: rgb(215, 18, 18); /* title text color */
+          height: 60px;
+
+        }
+        
+        
+/* change the background color of header (logo part) when mouse hover */
+.skin-blue .main-header .logo:hover {
+          background-color: #4682B4; /* backgorund color of the logo header part on mouse hover */
+          font-weight: bold;
+          color:black;
+        }
+  
+/* Edit the below for the header title hyperlink */
+.skin-blue .main-header .logo>a {
+            color: black; /* color of the hyperlink text */
+
+          
+        }
+        
+/* Edit the below to get the header title hyperlink hover effect */  
+.skin-blue .main-header .logo>a:hover {
+          color:white;  /* color of the hyperlink text on mouse hover */
+          
+        }
+        
+        

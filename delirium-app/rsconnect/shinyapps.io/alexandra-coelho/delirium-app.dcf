@@ -1,0 +1,13 @@
+name: delirium-app
+title: delirium-app
+username: alexandra-coelho
+account: alexandra-coelho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9626039
+bundleId: 7702126
+url: https://alexandra-coelho.shinyapps.io/delirium-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Train_adas.csv
