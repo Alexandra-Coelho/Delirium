@@ -1,7 +1,7 @@
 ![logo_escola_eng](https://user-images.githubusercontent.com/96354274/176214605-90adc5b2-1813-4de8-99ae-37421456769c.png)
 
 # Delirium
-GLM’s em Data Science como ferramenta na seleção de fatores de risco: um exemplo de previsão de delirium
+GLM’s em Data Science como ferramenta na seleção de fatores de risco: um exemplo de previsão de *delirium*
 
 
 ## Contexto
@@ -28,5 +28,6 @@ Apesar deste modelo preditivo ainda poder ser melhorado, assume-se como uma ferr
 
 Um dos principais resultados é a pipeline de implementação do melhor modelo a selecionar utilizando a regressão logística multinomial, tal como esquematizado com as principais etapas e resultados.
 
-![schema](https://github.com/Alexandra-Coelho/Delirium/assets/96354274/51464cf9-356b-45a5-8b04-d0161f1342cd)
 
+
+![git](https://github.com/Alexandra-Coelho/Delirium/assets/96354274/dbe98a24-92b4-4dae-85a0-1cbe05604974)
